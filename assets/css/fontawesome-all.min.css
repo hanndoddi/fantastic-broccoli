@@ -6,8 +6,11 @@
 
 
 
-
-
+#wrapper > section > header {
+						background-attachment: fixed;
+						background-color: rgb(2, 96, 31);
+    
+}
 
 
 
